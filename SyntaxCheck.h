@@ -1,3 +1,10 @@
+/*
+Katherine Hansen
+2326665
+Assignment 3
+CPSC350-01
+This program outlines the SyntaxCheck class
+*/
 #include <iostream>
 #include <fstream>
 #include <string>
