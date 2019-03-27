@@ -1,3 +1,10 @@
+/*
+Katherine Hansen
+2326665
+Assignment 3
+CPSC350-01
+This program uses an array based stack to check if 
+*/
 #include <iostream>
 #include <fstream>
 #include <stack>
